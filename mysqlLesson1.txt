@@ -1,6 +1,9 @@
 show databases;
+
 use otyko;
+
 show tables;
+
 select * from cars;
 
 # найти все машины старше 2000 г
